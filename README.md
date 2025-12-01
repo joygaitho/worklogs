@@ -1,4 +1,5 @@
-🌿 October Worklog — 2025
+                                                                                📅 Monthly Worklogs
+🌿 October Worklog — 2025   
 🧭 Reflecting on My Journey
 
 October was a month of growth, exploration, and learning from mistakes.
@@ -41,3 +42,35 @@ October reminded me that learning is not linear.
 There are moments of clarity and moments of confusion, but each one matters.
 
 I’m learning to trust the process, stay consistent, and celebrate even the smallest wins — because every step forward, no matter how small, brings me closer to my goals.
+
+## 🗓️ November 2025 — Monthly Worklog
+
+### 🧩 Summary  
+Focused on strengthening core programming fundamentals, including control flow, loops, functions, programming paradigms, and object-oriented programming. Spent the month improving code structure, readability, and understanding how Python executes logic step by step.
+
+---
+
+### 🏆 Achievements  
+- Mastered the use of `if`, `elif`, and `else` for decision-making.  
+- Practiced `for` and `while` loops to handle repetitive tasks effectively.  
+- Built reusable functions with parameters and return values.  
+- Explored procedural vs. object-oriented programming.  
+- Implemented classes, objects, attributes, and methods in Python.
+
+---
+
+### 💡 Learnings from Challenges  
+- Found nested loops confusing at first; improved by tracing code and breaking logic into smaller pieces.  
+- Needed time to understand how objects store and update state.  
+- Gained clarity on class vs. instance variables through hands-on examples and debugging.
+
+---
+
+### ✨ Monthly Highlights  
+- Writing cleaner, more modular code.  
+- Improved debugging confidence.  
+- Developed stronger problem-solving habits.  
+- Built a solid foundation for more advanced programming concepts.
+
+---
+
