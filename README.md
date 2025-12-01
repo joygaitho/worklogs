@@ -1,4 +1,4 @@
-                                                                                📅 Monthly Worklogs
+🗓️ October 2025 — Monthly Worklog                                                           📅 Monthly Worklogs
 🌿 October Worklog — 2025   
 🧭 Reflecting on My Journey
 
